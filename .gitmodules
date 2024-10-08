@@ -1,0 +1,6 @@
+[submodule "Lab/lab2-8am-b260-group2"]
+	path = Lab/lab2-8am-b260-group2
+	url = https://github.com/ucsd-cse29-fa24/lab2-8am-b260-group2
+[submodule "PAs/pa1-utf-8-Brian-Masse"]
+	path = PAs/pa1-utf-8-Brian-Masse
+	url = https://github.com/ucsd-cse29-fa24/pa1-utf-8-Brian-Masse
