@@ -4,3 +4,6 @@
 [submodule "PAs/pa1-utf-8-Brian-Masse"]
 	path = PAs/pa1-utf-8-Brian-Masse
 	url = https://github.com/ucsd-cse29-fa24/pa1-utf-8-Brian-Masse
+[submodule "Lab/lab3-starter"]
+	path = Lab/lab3-starter
+	url = https://github.com/Brian-Masse/lab3-starter
