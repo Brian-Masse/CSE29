@@ -7,3 +7,6 @@
 [submodule "Lab/lab3-starter"]
 	path = Lab/lab3-starter
 	url = https://github.com/Brian-Masse/lab3-starter
+[submodule "PAs/pa2-hashing-and-passwords-Brian-Masse"]
+	path = PAs/pa2-hashing-and-passwords-Brian-Masse
+	url = https://github.com/ucsd-cse29-fa24/pa2-hashing-and-passwords-Brian-Masse
