@@ -13,3 +13,6 @@
 [submodule "PAs/pa3-chat-server-Brian-Masse"]
 	path = PAs/pa3-chat-server-Brian-Masse
 	url = https://github.com/Brian-Masse/pa3-chat-server-Brian-Masse
+[submodule "Lab/cse29-lab7-starter"]
+	path = Lab/cse29-lab7-starter
+	url = https://github.com/Brian-Masse/cse29-lab7-starter
