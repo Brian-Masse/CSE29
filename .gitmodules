@@ -16,3 +16,6 @@
 [submodule "Lab/cse29-lab7-starter"]
 	path = Lab/cse29-lab7-starter
 	url = https://github.com/Brian-Masse/cse29-lab7-starter
+[submodule "Lab/Lab/lab5-starter"]
+	path = Lab/Lab/lab5-starter
+	url = https://github.com/Brian-Masse/lab5-starter
