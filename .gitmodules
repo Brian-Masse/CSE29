@@ -22,3 +22,6 @@
 [submodule "PAs/pa4-malloc-Brian-Masse"]
 	path = PAs/pa4-malloc-Brian-Masse
 	url = https://github.com/Brian-Masse/pa4-malloc-Brian-Masse
+[submodule "PAs/pa5-cse29"]
+	path = PAs/pa5-cse29
+	url = https://github.com/Brian-Masse/pa5-cse29
